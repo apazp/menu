@@ -3,3 +3,6 @@ Cebolla
 Patatas
 Sal
 
+Precio:
+3€
+
